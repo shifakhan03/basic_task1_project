@@ -1,7 +1,7 @@
 # basic_task1_project
 #A product landing page is a focused web page designed to sell a specific product.The product landing page contains of components which are aligned in columns.some of the elements of product landing page are header,headline,subhead,product description,call to action ,social proof etc.
 
-
+#HTML CODE
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -124,6 +124,7 @@
             <p>Follow us on social media</p>
         </div>
     </footer>
+#CSS CODE
 </body>
 </html>
 <style>
